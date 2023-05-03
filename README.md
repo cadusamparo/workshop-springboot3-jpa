@@ -36,6 +36,6 @@ Essa aplicação tem como objetivo exibir uma lista de pedidos, coletando dados 
 # Autor
 Carlos Eduardo Braz Samparo
 
-https://www.linkedin.com/in/carlos-eduardo
+https://www.linkedin.com/in/carlos-eduardo](https://www.linkedin.com/in/carlos-eduardo-b4761326a/)
 
 
