@@ -24,8 +24,10 @@ Essa aplicação tem como objetivo exibir uma lista de pedidos, coletando dados 
 ## Modelo Conceitual
 ![modelo conceitual](https://user-images.githubusercontent.com/128712778/235934612-f1fdf363-1768-44b7-ac54-e1a88a293272.PNG)
 
-#Tecnologias utilizadas
-##Back end
+
+# Tecnologias utilizadas
+
+## Back end
 - Java 17
 - Spring Boot
 - JPA / Hibernate
