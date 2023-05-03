@@ -8,11 +8,17 @@ Essa aplicação tem como objetivo exibir uma lista de pedidos, coletando dados 
 
 # Objetivos
 -Iniciar um novo projeto em Spring Boot com java
+
 -Desenvolver uma representação das entidades do domínio
+
 -Organizar o projeto em camadas lógicas:resource, service, repository
+
 -Configurar um banco de dados de testes utilizando H2
+
 -Preencher o banco de dados com dados de teste
+
 -Implementar as operações básicas de CRUD: Create, retrieve, update, delete
+
 -Implementar tratamento de exceções para lidar com situações inesperadas
 
 ## Modelo Conceitual
